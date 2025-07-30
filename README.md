@@ -33,7 +33,7 @@ A set of player performance questions were posed to an LLM.The goal was to simul
 
 - Prompt responses were crafted based on actual analysis
 - Focused on transparency, interpretability, and performance breakdowns
-- Files: [`LLMResponses.docx`] , ['playerperformance.ipynb']
+- Files: [`LLMResponses`] , ['playerperformance.ipynb']
 
 ---
 
