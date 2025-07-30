@@ -47,7 +47,7 @@ A set of player performance questions were posed to an LLM.The goal was to simul
 
 ## Interesting Insights
 
-- **Strong correlation (r = 0.99)** between shots taken and goals scored.
+- **Strong correlation** (r = 0.99) between shots taken and goals scored.
 - **Meaghan Tyrrell** had the most goals (54), while **Emma Ward** led in assists (33).
 - **Hailey Rhatigan** had the highest shooting accuracy (65%) and SOG% (76%).
 - **Emma Ward** had the top offensive contribution (84 total points).
