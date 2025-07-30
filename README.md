@@ -33,7 +33,7 @@ A set of player performance questions were posed to an LLM.The goal was to simul
 
 - Prompt responses were crafted based on actual analysis
 - Focused on transparency, interpretability, and performance breakdowns
-- Doc: [`LLMResponses.docx`](./LLMResponses.docx)
+- Files: [`LLMResponses.docx`] , ['playerperformance.ipynb']
 
 ---
 
@@ -43,7 +43,7 @@ A set of player performance questions were posed to an LLM.The goal was to simul
 - `Pandas`, `Matplotlib`, `Seaborn`
 - `Jupyter Notebook`
 - `OpenAI ChatGPT` 
-- Dataset: CSV file (lacrosse player stats)
+-  Dataset: CSV file (lacrosse player stats)
 
 ## Interesting Insights
 
