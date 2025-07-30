@@ -4,7 +4,7 @@ This project analyzes lacrosse player performance stats using a CSV dataset of i
 
 ## Dataset Overview
 
-The dataset (`Player_Stats.csv`) includes individual player statistics such as:
+The dataset (Player_Stats.csv) includes individual player statistics such as:
 
 - **Goals (g), Assists (a), Points (pts)**
 - **Shooting metrics**: Shots (sh), Accuracy (sh%), Shots on Goal (sog%)
@@ -16,15 +16,15 @@ The dataset (`Player_Stats.csv`) includes individual player statistics such as:
 This project investigates player performance using a structured set of analytical questions:
 
 1. **How many players are listed in the dataset?**  
-2. **What is the average number of goals (`g`) scored per player?**  
-3. **Which player scored the highest number of goals (`g`)?**  
-4. **Who had the most assists (`a`) this season?**  
-5. **Which player had the highest goals per game ratio (`g/gp`)?**  
-6. **Who had the highest shooting accuracy (`sh%`) and shot-on-goal percentage (`sog%`)?**  
-7. **How many players caused more than 5 turnovers (`ct`)?**  
-8. **Which player had the most combined offensive contribution (Goals + Assists)?**  
-9. **Who had the highest impact on defense (based on Caused Turnovers + Ground Balls)?**  
-10. **Was there a correlation between shots taken (`sh`) and goals scored (`g`)?**  
+2. **What is the average number of goals scored per player?**  
+3. **Which player scored the highest number of goals?**  
+4. **Who had the most assists this season?**  
+5. **Which player had the highest goals per game ratio?**  
+6. **Who had the highest shooting accuracy and shot-on-goal percentage?**  
+7. **How many players caused more than 5 turnovers?**  
+8. **Which player had the most combined offensive contribution?**  
+9. **Who had the highest impact on defense?**  
+10. **Was there a correlation between shots taken and goals scored?**  
 11. **Who was the most improved player?** *(Based on high efficiency in fewer games played)*
 
 ## LLM Integration
@@ -33,16 +33,16 @@ A set of player performance questions were posed to an LLM.The goal was to simul
 
 - Prompt responses were crafted based on actual analysis
 - Focused on transparency, interpretability, and performance breakdowns
-- Files: [`LLMResponses`] , ['playerperformance.ipynb']
+- Files: [LLMResponses] , [playerperformance.ipynb]
 
 ---
 
 ## Tools Used
 
-- `Python 3.10`
-- `Pandas`, `Matplotlib`, `Seaborn`
-- `Jupyter Notebook`
-- `OpenAI ChatGPT` 
+-  Python 3.10
+-  Pandas, Matplotlib, Seaborn
+-  Jupyter Notebook
+-  OpenAI ChatGPT
 -  Dataset: CSV file (lacrosse player stats)
 
 ## Interesting Insights
