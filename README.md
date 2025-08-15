@@ -27,6 +27,24 @@ This project investigates player performance using a structured set of analytica
 10. **Was there a correlation between shots taken and goals scored?**  
 11. **Who was the most improved player?** *(Based on high efficiency in fewer games played)*
 
+a) Offensive Highlights
+
+- Top Goal Scorer: McKenzie Olson led the team with 43 goals, showing strong offensive finishing.
+
+- Most Assists: Megan Carney recorded 17 assists, highlighting her playmaking abilities.
+
+b) Defensive Highlights
+
+- Top Defensive Contributor: Katie Goodale had a combined 63 ground balls and 28 caused turnovers, indicating her crucial role in disrupting opposition plays and regaining possession.
+
+- Most Turnovers Caused: Katie Goodale also led in caused turnovers (28), establishing her as the most disruptive defender.
+
+c) Insights Through Correlations and Trends
+
+- A strong positive correlation (~0.89) was found between total shots and goals scored, indicating that high-volume shooters tend to score more—but not always efficiently.
+
+- Defensive aggressiveness did not always correlate with fouls, suggesting some players can disrupt opponents effectively without incurring penalties.
+
 ## LLM Integration
 
 A set of player performance questions were posed to an LLM.The goal was to simulate human-like sports reasoning and see how accurately the model could answer data-based questions.
