@@ -15,9 +15,9 @@ The dataset (Player_Stats.csv) includes individual player statistics such as:
 
 This project investigates player performance using a structured set of analytical questions:
 
-1. **How many players are listed in the dataset?**  
+1. ** How many players are listed in the dataset?**  
 2. **What is the average number of goals scored per player?**  
-3. **Which player scored the highest number of goals?**  
+3. **Which player had scored the highest number of goals?**  
 4. **Who had the most assists this season?**  
 5. **Which player had the highest goals per game ratio?**  
 6. **Who had the highest shooting accuracy and shot-on-goal percentage?**  
